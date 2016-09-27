@@ -15,9 +15,6 @@ class MessageDetailsViewController: UIViewController {
    
     override func viewDidLoad() {
         super.viewDidLoad()
-
-      message.text = Passedmessage
-      message.textColor = UIColor.black
     }
 
     override func didReceiveMemoryWarning() {
